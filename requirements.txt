@@ -3,7 +3,8 @@ langchain-community
 langchain-google-genai
 langchain-cohere
 langchain-groq
-pinecone
+langchain-pinecone
+pinecone-client
 python-dotenv
 pypdf
 streamlit
