@@ -254,6 +254,9 @@ python -c "from generator import generate_answer; ans, src = generate_answer('Wh
 
 This project is provided as-is for educational and commercial use.
 
+## 🤝 resume link
+https://drive.google.com/file/d/1BHD7WIHJmCdk1psQHZ0spcOi8vKP9wbp/view?usp=drivesdk
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow the existing code style and add tests for new features.
